@@ -1,0 +1,58 @@
+﻿absence n.缺席，不在场；缺乏
+absent a.不在场的；缺乏的
+absolute a.绝对的；纯粹的
+abstract a.抽象的 n.摘要
+big a.大的，巨大的
+bike n.自行车 vi.骑自行车
+bill n.账单；招贴；票据
+casual a.偶然的；随便的
+cat n.猫，猫科，猫皮
+catalog n.目录，目录册
+discovery n.发现；被发现的事物
+rear n.后部，后面；背面
+table n.桌子；餐桌；项目表
+tablet n.碑，匾；药片
+tag n.附加语；标签
+tail n.尾巴；末尾部分
+valid a.有效的；正当的
+valley n.(山)谷，溪谷；流域
+valuable a.值钱的；有价值的
+van n.大篷车，运货车
+vanish vi.突然不见，消失
+vanity n.虚荣心，虚夸
+variable a.易变的 n.变量
+variation n.变化，变动；变异
+variety n.多样化；种类；变种
+wound n.创伤，伤 vt.使受伤
+wrap vt.裹，包，捆 n.披肩
+wreath n.花环，花圈，花冠
+wreck n.失事；残骸 vt.破坏
+wrist n.腕，腕关节
+write vt.书写；写 vi.写
+writer n.作者，作家，文学家
+writing n.书写，写；著作
+wrong a.错误的 ad.错，不对
+X-ray n.X射线，X光
+yard n.院子，庭院；场地
+yard n.码
+yawn vi.打呵欠 n.呵欠
+year n.年；年年
+yearly a.每年的 ad.一年一度
+yell vi.叫喊
+yellow a.黄(色)的 n.黄(色)
+yes ad.是，是的
+yesterday n.&ad.昨天，昨日
+yet ad.还；已经 conj.而
+yield vt.&vi.出产 n.产量
+you pron.你，你们
+young a.年轻的 n.青年们
+your pron.你的，你们的
+yours pron.你们的(东西)
+yourself pron.你自己；你亲自
+youth n.青春；青年们；青年
+youthful a.年轻的，青年的
+zeal n.热心，热情，热忱
+zealous a.热心的，热情的
+zebra n.斑马
+zero n.零；零点，零度
+zone n.地区，区域，范围

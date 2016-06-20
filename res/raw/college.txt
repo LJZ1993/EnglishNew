@@ -1,0 +1,64 @@
+﻿abstract a.抽象的 n.摘要
+abundant a.丰富的；大量的
+abuse vt.滥用；虐待 n.滥用
+academic a.学院的；学术的
+academy n.私立中学；专科院校
+accelerate vt.(使)加快；促进
+acceleration n.加速；加速度
+accent n.口音，腔调；重音
+accept vt.vi.接受；同意
+acceptable a.可接受的，合意的
+acceptance n.接受，验收；承认
+access n.接近；通道，入口
+accessory n.同谋，从犯；附件
+accident n.意外的；事故
+accidental a.偶然的；非本质的
+belt n.带，腰带；皮带；区
+bench n.长凳，条凳；工作台
+dog n.狗，犬，犬科动物
+dollar n.元(货币单位)
+domestic a.本国的；家庭的
+donkey n.驴；笨蛋
+door n.门，通道；一家
+dormitory n.集体寝室；宿舍
+dose n.剂量，用量；一剂
+double a.两倍的；双的
+doubtful a.难以预测的；怀疑的
+doubtless ad.无疑地；很可能
+down ad.向下，在下面
+downstairs ad.在楼下 a.楼下的
+downward a.向下的 ad.向下地
+succeed vt.继…之后 vi.成功
+success n.成功，成就，胜利
+successful a.成功的，结果良好的
+successfully ad.成功地
+succession n.连续；继任，继承
+successive a.连续的；接连的
+such a.这样的；如此的…
+suck vt.吸，吮，啜；吸收
+sudden a.突然的，意外的
+suddenly ad.突然地
+suffer vt.遭受；忍受；容许
+sufficient a.足够的，充分的
+sufficiently ad.足够地，充分地
+sugar n.糖
+suggest vt.建议；暗示，启发
+suggestion n.建议，意见；暗示
+suit n.起拆，诉讼 vt.适合
+suitable a.合适的；适宜的
+sulphur n.硫(磺)，硫黄
+sum n.总数；金额 vi.共计
+summarize vt.概括，概述，总结
+summary n.摘要，概要，一览
+summer n.夏，夏季
+sun n.太阳，日
+Sunday n.星期日，礼拜日
+sunlight n.日光，阳光
+sunny a.阳光充足的；快活的
+sunrise n.日出(时分)
+sunset n.日落(时分)
+sunshine n.(直射)日光，阳光
+super a.极好的，超级的
+superficial a.表面的；肤浅的
+superior a.较高的；优越的
+supermarket n.超级市场

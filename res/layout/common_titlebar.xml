@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/comm_titlebar_height"
+    android:background="#4481B9" >
+
+    <LinearLayout
+        android:id="@+id/title_ll_all"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:padding="5dip" >
+
+        <ImageView
+            android:id="@+id/titlebar_iv_back"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:gravity="center_vertical"
+            android:src="@drawable/ic_titlebar_back"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/titlebar_tv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@id/titlebar_iv_back"
+            android:gravity="center_vertical"
+            android:text="单词查询"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/titlebar_tv_center"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:gravity="center_vertical"
+        android:text="英语学习   "
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/titlebar_iv_search"
+        android:layout_width="30dp"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@id/titlebar_tv_center"
+        android:src="@drawable/search_word" >
+    </ImageView>
+
+    <EditText
+        android:id="@+id/titlebar_et_word"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="40dp"
+        android:background="#4481B9"
+        android:hint="请输入要查询的单词"
+        android:singleLine="true"
+        android:textColorHint="#E8FFFF"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/titlebar_iv_delect"
+        android:layout_width="30dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:background="#4481B9"
+        android:src="@drawable/delect_word"
+        android:visibility="invisible" />
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sping_arr">
+        <item>自动检测语言</item>
+        <item>中文->英语</item>
+        <item>中文->英语</item>
+        <item>中文->英语</item>
+        <item>中文->英语</item>
+        <item>中文->英语</item>
+        <item>中文->英语</item>
+    </string-array>
+
+</resources>

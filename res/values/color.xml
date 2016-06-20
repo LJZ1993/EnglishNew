@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="mainActivityTitle">#222222</color>
+    <color name="titlebar_bg">#222222</color>
+    <color name="mainActivityOrder">#FFB704</color>
+    <color name="mainActivitySimulate">#FFB704</color>
+    <color name="mainActivityRecommend">#FFB704</color>
+    <color name="OrderActivity_select_default">#969fa5</color>
+     <color name="SearchActivity_add_word">#E6E6E6</color>
+
+</resources>
