@@ -41,11 +41,10 @@ public class RVActivty extends Activity {
         mRecyclerView = (RecyclerView) findViewById(R.id.rv_rv);
         //给recyclerView设置可以滑动的方向 默认是上下 可以设置成左右
         //设置成垂直方向 默认
-         lm.setOrientation(OrientationHelper.VERTICAL);
+        // lm.setOrientation(OrientationHelper.VERTICAL);
         // 获取调用方传递的word_level用于判断是四级or六级orcollege
         name = getIntent().getStringExtra("word_level");
         initData();
-        //initData1();
         //rv和lm进行连接起来
         mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
         mRecyclerView.setAdapter(mAdapter = new HomeAdapter());
